@@ -1,0 +1,25 @@
+_repo: Les-mains-pleines-de-roses-pleines-d-or-et-pleines-de-sang_8541
+creator:
+  author:
+    agent_name: Houssaye, Arsène
+    alias: Houssaye, Arsene
+    birthdate: 1815
+    deathdate: 1896
+    gutenberg_agent_id: '2998'
+    url: http://www.gutenberg.org/2009/agents/2998
+    wikipedia: http://en.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8541'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Les mains pleines de roses, pleines d'or et pleines de sang
+url: http://www.gutenberg.org/ebooks/8541
