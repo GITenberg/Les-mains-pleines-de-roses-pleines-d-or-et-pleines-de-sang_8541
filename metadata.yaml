@@ -1,4 +1,8 @@
 _repo: Les-mains-pleines-de-roses-pleines-d-or-et-pleines-de-sang_8541
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Houssaye, Arsène
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2998
     wikipedia: http://en.wikipedia.org/wiki/Ars%C3%A8ne_Houssaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8541#Les-mains-pleines-de-roses-pleines-d-or-et-pleines-de-sang
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
